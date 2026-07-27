@@ -6,7 +6,7 @@ A data analytics project that evaluates healthcare infrastructure across Indones
 
 ## 📌 Project Overview
 
-This project analyzes the distribution of healthcare infrastructure in Indonesia by combining hospital and population data. Several healthcare indicators are calculated to enable fair comparisons across provinces, including hospital beds per 1,000 population, hospitals per 100,000 population, and healthcare workers per 1,000 population.
+This project analyzes the distribution of healthcare infrastructure in Indonesia by combining hospital and population data. Several healthcare indicators are calculated to enable fair comparisons across provinces, including total hospital per province, hospital beds per 1,000 population, and total high-tier hospital per province.
 
 The analysis aims to identify regional disparities in healthcare infrastructure and evaluate whether provinces have adequate healthcare capacity relative to their population.
 
@@ -27,8 +27,8 @@ The analysis aims to identify regional disparities in healthcare infrastructure 
 
 The project combines two public datasets:
 
-- 🏥 Indonesia Hospitals Dataset
-- 👥 Indonesia Population Dataset (2026)
+- Indonesia Hospitals Dataset
+- Indonesia Population Dataset (2026)
 
 After cleaning and preprocessing, both datasets were merged using the **Province** column as the shared key.
 
@@ -36,13 +36,12 @@ After cleaning and preprocessing, both datasets were merged using the **Province
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python
-- 🦆 DuckDB SQL
-- 🐼 Pandas
-- 🔢 NumPy
-- 📈 SciPy
-- 📊 Power BI
-- 📑 Microsoft PowerPoint
+- Python
+- Pandas
+- DuckDB SQL
+- Power BI
+- Microsoft Excel
+- Microsoft PowerPoint
 
 ---
 
@@ -50,11 +49,11 @@ After cleaning and preprocessing, both datasets were merged using the **Province
 
 This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** framework:
 
-1. 💼 Business Understanding
-2. 🔍 Data Understanding
-3. 🧹 Data Preparation
-4. 📊 Data Visualization
-5. 📈 Data Evaluation
+1. Problem Statement
+2. Data Understanding
+3. Data Preparation
+4. Data Visualization
+5. Data Evaluation
 
 ---
 
@@ -62,24 +61,24 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 
 The following indicators were created during feature engineering:
 
-- 🏥 Total Hospitals
-- ⭐ High-Tier Hospitals (Class A & B)
-- 🛏️ Total Beds
-- 👨‍⚕️ Total Healthcare Workers
-- 📍 Hospitals per 100,000 Population
-- 🛏️ Beds per 1,000 Population
-- 👨‍⚕️ Healthcare Workers per 1,000 Population
-- 📊 Beds per Hospital
-- ⚕️ Healthcare Workers per Bed
+- Total Hospitals
+- High-Tier Hospitals (Class A & B)
+- Total Beds
+- Total Healthcare Workers
+- Hospitals per 100,000 Population
+- Beds per 1,000 Population
+- Healthcare Workers per 1,000 Population
+- Beds per Hospital
+- Healthcare Workers per Bed
 
 ---
 
 ## 💡 Key Findings
 
-- ✅ Most provinces meet or exceed **1 hospital bed per 1,000 population**, indicating relatively adequate basic bed availability.
-- ⚠️ Access to high-tier hospitals remains concentrated in **Jawa Barat, DKI Jakarta, and Jawa Timur**.
-- 🌏 Several eastern provinces have very limited or no Class A and Class B hospitals, suggesting unequal access to advanced healthcare services.
-- 📌 The analysis highlights regional disparities in healthcare infrastructure despite generally sufficient bed availability.
+- Most provinces meet or exceed **1 hospital bed per 1,000 population**, indicating relatively adequate basic bed availability.
+- Access to high-tier hospitals remains concentrated in **Jawa Barat, DKI Jakarta, and Jawa Timur**.
+- Several eastern provinces have very limited or no Class A and Class B hospitals, suggesting unequal access to advanced healthcare services.
+- The analysis highlights regional disparities in healthcare infrastructure despite generally sufficient bed availability.
 
 ---
 
@@ -115,15 +114,6 @@ indonesia-healthcare-infrastructure-analysis/
 │
 └── 📄 README.md
 ```
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository.
-2. Open the Jupyter Notebook to review the data preparation process.
-3. Open the Power BI (`.pbix`) file to explore the interactive dashboard.
-4. Read the presentation PDF for the complete business report and findings.
 
 ---
 
