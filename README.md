@@ -86,7 +86,7 @@ The following indicators were created during feature engineering:
 
 > Interactive dashboard developed in Power BI.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](data/indonesia_healthcare_infrastructure_dashboard.png)
 
 ---
 
@@ -95,22 +95,19 @@ The following indicators were created during feature engineering:
 ```text
 indonesia-healthcare-infrastructure-analysis/
 │
-├── 📂 dashboard/
-│   └── Indonesia_Healthcare_Dashboard.pbix
+├── Indonesia Healthcare Infrastructure Analysis.pdf
+├── Indonesia Healthcare Infrastructure Dashboard.pdf
 │
 ├── 📂 data/
-│   ├── indonesia_hospitals.csv
-│   └── indonesia_population_2026.csv
-│
-├── 📂 notebook/
-│   └── indonesia_healthcare_infrastructure_analysis.ipynb
-│
-├── 📂 presentation/
-│   ├── Indonesia_Healthcare_Report.pdf
-│   └── Indonesia_Healthcare_Report.pptx
-│
-├── 📂 images/
-│   └── dashboard.png
+│   ├── indonesia_healthcare_infrastructure_analysis.pptx
+│   ├── indonesia_healthcare_infrastructure_dashboard.pbix
+│   ├── indonesia_healthcare_infrastructure_dashboard.png
+│   ├── data_understanding_and_preparation.ipynb
+│   ├── hospital_population_cleaned.csv
+│   ├── province_summary.xlsx
+│   └── 📂 dataset/
+│        ├── indonesia_hospitals.csv
+│        └── indonesia_population_2026.csv
 │
 └── 📄 README.md
 ```
