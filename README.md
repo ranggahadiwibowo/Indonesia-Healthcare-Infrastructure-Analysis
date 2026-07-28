@@ -1,6 +1,6 @@
 # 🏥 Indonesia Healthcare Infrastructure Analysis
 
-Personal Project by Rangga Hadiwibowo
+Personal Project by **Rangga Hadiwibowo**
 
 ---
 
