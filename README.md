@@ -95,7 +95,7 @@ Interactive dashboard developed in Power BI.
 ```text
 indonesia-healthcare-infrastructure-analysis/
 │
-├── Indonesia Healthcare Infrastructure Analysis.pdf(Indonesia Healthcare Infrastructure Analysis.pdf)
+├── Indonesia Healthcare Infrastructure Analysis.pdf
 ├── Indonesia Healthcare Infrastructure Dashboard.pdf
 │
 ├── 📂 data/
