@@ -77,8 +77,8 @@ The following indicators were created during feature engineering:
 
 - Most provinces meet or exceed **1 hospital bed per 1,000 population**, indicating relatively adequate basic bed availability.
 - Access to high-tier hospitals remains concentrated in **Jawa Barat, DKI Jakarta, and Jawa Timur**.
-- Several eastern provinces have very limited or no Class A and Class B hospitals, suggesting unequal access to advanced healthcare services.
-- The analysis highlights regional disparities in healthcare infrastructure despite generally sufficient bed availability.
+- Several eastern provinces have **very limited or no Class A and Class B hospitals**, suggesting unequal access to advanced healthcare services.
+- The analysis highlights **regional disparities in healthcare infrastructure** despite generally sufficient bed availability.
 
 ---
 
