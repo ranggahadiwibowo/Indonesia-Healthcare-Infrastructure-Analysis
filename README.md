@@ -84,7 +84,7 @@ The following indicators were created during feature engineering:
 
 ## 🖥️ Dashboard Preview
 
-> Interactive dashboard developed in Power BI.
+Interactive dashboard developed in Power BI.
 
 ![Dashboard](data/indonesia_healthcare_infrastructure_dashboard.png)
 
