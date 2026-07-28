@@ -1,5 +1,9 @@
 # 🏥 Indonesia Healthcare Infrastructure Analysis
 
+---
+
+## 📌 Project Overview
+
 This project analyzes the distribution of healthcare infrastructure in Indonesia by combining hospital and population data. Several healthcare indicators are calculated to enable fair comparisons across provinces, including total hospital per province, hospital beds per 1,000 population, and total high-tier hospital per province. The analysis aims to identify regional disparities in healthcare infrastructure and evaluate whether provinces have adequate healthcare capacity relative to their population.
 
 ---
