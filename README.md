@@ -1,5 +1,7 @@
 # 🏥 Indonesia Healthcare Infrastructure Analysis
 
+Personal Project by Rangga Hadiwibowo
+
 ---
 
 ## 📌 Project Overview
@@ -107,11 +109,3 @@ indonesia-healthcare-infrastructure-analysis/
 │
 └── 📄 README.md
 ```
-
----
-
-## 👤 Author
-
-**Rangga**
-
-*Data Analytics Portfolio Project*
