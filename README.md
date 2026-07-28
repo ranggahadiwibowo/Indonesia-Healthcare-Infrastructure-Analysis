@@ -30,7 +30,7 @@ After cleaning and preprocessing, both datasets were merged using the **Province
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools Used
 
 - Python
 - Pandas
