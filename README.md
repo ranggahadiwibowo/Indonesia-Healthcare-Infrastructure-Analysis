@@ -1,7 +1,5 @@
 # 🏥 Indonesia Healthcare Infrastructure Analysis
 
-A data analytics project that evaluates healthcare infrastructure across Indonesian provinces by integrating hospital and population datasets. The project focuses on measuring healthcare accessibility using standardized indicators and presents the findings through an interactive Power BI dashboard.
-
 ---
 
 ## 📌 Project Overview
